@@ -1,0 +1,43 @@
+# Tech Career Handbook
+
+## List of Popular Companies For Tech Jobs
+
+1. [Google](https://careers.google.com/)
+2. [Amazon](https://amazon.jobs/)
+3. [Microsoft](https://careers.microsoft.com/)
+4. [Facebook](https://www.facebook.com/careers/)
+5. [Netflix](https://jobs.netflix.com/)
+6. [Apple](https://www.apple.com/careers/)
+7. [Twitter](https://careers.twitter.com/en/roles.html)
+8. [Zoom](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom)
+9. [Shopify](https://www.shopify.com/careers)
+10. [Spotify](https://www.spotifyjobs.com/)
+11. [Booking.com](https://jobs.booking.com/careers)
+12. [Linkedin](https://careers.linkedin.com/)
+13. [Huawaei](https://career.huawei.com/reccampportal/portal5/index.html)
+14. [Bytedance](https://jobs.bytedance.com/)
+15. [Tiktok](https://careers.tiktok.com/)
+16. [Intel](https://jobs.intel.com/)
+17. [Dell](https://jobs.dell.com/)
+18. [Trivago](https://company.trivago.com/)
+19. [Expedia](https://lifeatexpediagroup.com/)
+20. [IBM](https://www.ibm.com/employment/)
+21. [JP Morgan Chase & Co](https://careers.jpmorgan.com/global/en/home)
+22. [Adobe](https://www.adobe.com/careers.html)
+23. [Oracle](https://www.oracle.com/corporate/careers/)
+24. [Uber](https://www.uber.com/bd/en/careers/)
+25. [SalesForce](https://www.salesforce.com/in/company/careers/rdr/)
+26. [Goldman Sachs](https://www.goldmansachs.com/careers/index.html)
+27. [Citi](https://jobs.citi.com/)
+28. [Agoda](https://careersatagoda.com/)
+29. [Ciena](https://careers.ciena.com/)
+30. [Adidas](https://careers.adidas-group.com/)
+
+## Job Searching Platform
+
+1. [Linkedin](https://www.linkedin.com/jobs/)
+2. [Indeed](https://www.indeed.com/)
+3. [Crossover](https://www.crossover.com/)
+4. [HackerEarth](https://www.hackerearth.com/challenges/)
+5. [Hired](https://hired.com/)
+6. [Cord](https://cord.co/)
