@@ -1,5 +1,14 @@
 # Tech Career Handbook
 
+## Table of Contents
+
+  * [List of Popular Companies For Tech Jobs](#list-of-popular-companies-for-tech-jobs)
+  * [Job Searching Platforms](#job-searching-platforms)
+  * [Problem Solving Platforms](#problem-solving-platforms)
+  * [Data Structures & Algorithms Learning Resources](#data-structures--algorithms-learning-resources)
+  * [Usage](#system-design-learning-resources)
+
+
 ## List of Popular Companies For Tech Jobs
 
 1. [Google](https://careers.google.com/)
