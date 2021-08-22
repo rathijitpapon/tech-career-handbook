@@ -50,6 +50,7 @@
 37. [Mastercard](https://mastercard.jobs/)
 38. [Visa](https://usa.visa.com/careers.html)
 39. [PayPal](https://www.paypal.com/us/webapps/mpp/jobs)
+40. [Snap Inc.](https://www.snap.com/en-US/jobs)
 ## Job Searching Platforms
 
 1. [Linkedin](https://www.linkedin.com/jobs/)
