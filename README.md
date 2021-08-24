@@ -7,6 +7,7 @@
   * [Problem Solving Platforms](#problem-solving-platforms)
   * [Data Structures & Algorithms Learning Resources](#data-structures--algorithms-learning-resources)
   * [System Design Learning Resources](#system-design-learning-resources)
+  * [Other Career Resources](#other-career-resources)
 
 
 ## List of Popular Companies For Tech Jobs
@@ -68,6 +69,7 @@
 11. [HackerEarth](https://www.hackerearth.com/challenges/)
 12. [Hired](https://hired.com/)
 13. [Cord](https://cord.co/)
+14. [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
     
 
 ## Problem Solving Platforms
@@ -97,3 +99,11 @@
 5. [InterviewBit Tutorial](https://www.interviewbit.com/courses/system-design/)
 6. [FreeCodeCamp Tutorial](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 7. [Design Patterns - Code With Mosh](https://codewithmosh.com/p/design-patterns)
+
+## Other Career Resources
+
+1. [Eugene Hayden | Resume Templates & Career Tools](https://eugenehayden.com/)
+2. [Airtable - We Are Hiring | Recruiters List](https://airtable.com/shrSp4SbrMqKt3quf/tblvVTl0g1HdU9pOW)
+3. [Tech Resume Inside Out](https://thetechresume.com/)
+4. [Free Resume Templates](https://novoresume.com/resume-templates)
+5. [Standard Resume](https://standardresume.co/)
