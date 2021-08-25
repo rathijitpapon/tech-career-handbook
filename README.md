@@ -53,6 +53,7 @@
 39. [PayPal](https://www.paypal.com/us/webapps/mpp/jobs)
 40. [Snap Inc.](https://www.snap.com/en-US/jobs)
 41. [Walmart](https://careers.walmart.com/)
+42. [DataBricks](https://databricks.com/company/careers)
 
 ## Job Searching Platforms
 
