@@ -54,6 +54,8 @@
 40. [Snap Inc.](https://www.snap.com/en-US/jobs)
 41. [Walmart](https://careers.walmart.com/)
 42. [DataBricks](https://databricks.com/company/careers)
+43. [Qualcomm](https://www.qualcomm.com/company/careers)
+44. [Dyson](https://careers.dyson.com/)
 
 ## Job Searching Platforms
 
