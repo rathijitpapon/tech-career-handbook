@@ -59,6 +59,9 @@
 45. [DataBricks](https://databricks.com/company/careers)
 46. [Qualcomm](https://www.qualcomm.com/company/careers)
 47. [Dyson](https://careers.dyson.com/)
+48. [AirAsia](https://careers.airasia.com/)
+49. [Flipkart](https://www.flipkartcareers.com/#!/)
+50. [Infosys](https://www.infosys.com/careers/apply.html)
 
 ## Job Searching Platforms
 
