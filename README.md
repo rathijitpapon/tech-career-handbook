@@ -21,7 +21,7 @@
 7. [Twitter](https://careers.twitter.com/en/roles.html)
 8. [Zoom](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom)
 9. [Shopify](https://www.shopify.com/careers)
-10. [Spotify](https://www.spotifyjobs.com/)
+10. [Spotify](https://www.lifeatspotify.com/)
 11. [Booking.com](https://jobs.booking.com/careers)
 12. [Airbnb](https://careers.airbnb.com/)
 13. [Linkedin](https://careers.linkedin.com/)
