@@ -62,6 +62,7 @@
 48. [AirAsia](https://careers.airasia.com/)
 49. [Flipkart](https://www.flipkartcareers.com/#!/)
 50. [Infosys](https://www.infosys.com/careers/apply.html)
+51. [Motorola Solutions](https://www.motorolasolutions.com/en_xp/about/careers.html)
 
 ## Job Searching Platforms
 
