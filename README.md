@@ -66,6 +66,9 @@
 52. [Infosys](https://www.infosys.com/careers/apply.html)
 53. [Motorola Solutions](https://www.motorolasolutions.com/en_xp/about/careers.html)
 54. [RedHat](https://www.redhat.com/en/jobs)
+55. [Cognizant](https://careers.cognizant.com/global/en)
+56. [Workday](https://workday.wd5.myworkdayjobs.com/Workday)
+57. [SAP](https://www.sap.com/about/careers.html)
 
 ## Job Searching Platforms
 
