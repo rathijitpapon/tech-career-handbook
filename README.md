@@ -126,3 +126,4 @@
 4. [Tech Resume Inside Out](https://thetechresume.com/)
 5. [Free Resume Templates](https://novoresume.com/resume-templates)
 6. [Standard Resume](https://standardresume.co/)
+7. [Resume Worded | Resume Scoring Tool](https://resumeworded.com/)
