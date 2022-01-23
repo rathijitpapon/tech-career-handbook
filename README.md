@@ -5,6 +5,7 @@
   * [List of Popular Companies For Tech Jobs](#list-of-popular-companies-for-tech-jobs)
   * [Job Searching Platforms](#job-searching-platforms)
   * [Problem Solving Platforms](#problem-solving-platforms)
+  * [Interview Topics](#interview-topics)
   * [Data Structures & Algorithms Learning Resources](#data-structures--algorithms-learning-resources)
   * [System Design Learning Resources](#system-design-learning-resources)
   * [Other Career Resources](#other-career-resources)
@@ -98,6 +99,15 @@
 5. [CodeChef](https://www.codechef.com/problems/school/)
 6. [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
+## Interview Topics
+
+1. Data Structures & Algorithms
+2. Problem Solving
+3. Database
+4. Networking
+5. Operating System
+6. Object Oriented Design
+7. System Design
 ## Data Structures & Algorithms Learning Resources
 
 1. [Cracking The Coding Interview](https://drive.google.com/file/d/1QY80ZpKSF_PE_u6ZT1zvxFDRFesoDuSy/view?usp=sharing)
