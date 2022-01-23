@@ -92,10 +92,11 @@
 ## Problem Solving Platforms
 
 1. [LeetCode](https://leetcode.com/)
-2. [HackerRank](https://www.hackerrank.com/dashboard)
-3. [HackerEarth](https://www.hackerearth.com/practice/)
-4. [CodeChef](https://www.codechef.com/problems/school/)
-5. [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+2. [CodeStudio](https://www.codingninjas.com/codestudio)
+3. [HackerRank](https://www.hackerrank.com/dashboard)
+4. [HackerEarth](https://www.hackerearth.com/practice/)
+5. [CodeChef](https://www.codechef.com/problems/school/)
+6. [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 ## Data Structures & Algorithms Learning Resources
 
