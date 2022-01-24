@@ -130,10 +130,9 @@
 
 ## Other Career Resources
 
-1. [Interview Preparation Short Notes](https://drive.google.com/drive/folders/1ldsrQXnzlvp6ZZNV6uHP_MAlFkzxSek8?usp=sharing)
-2. [Eugene Hayden | Resume Templates & Career Tools](https://eugenehayden.com/)
-3. [Airtable - We Are Hiring | Recruiters List](https://airtable.com/shrSp4SbrMqKt3quf/tblvVTl0g1HdU9pOW)
-4. [Tech Resume Inside Out](https://thetechresume.com/)
-5. [Free Resume Templates](https://novoresume.com/resume-templates)
-6. [Standard Resume](https://standardresume.co/)
-7. [Resume Worded | Resume Scoring Tool](https://resumeworded.com/)
+1. [Eugene Hayden | Resume Templates & Career Tools](https://eugenehayden.com/)
+2. [Airtable - We Are Hiring | Recruiters List](https://airtable.com/shrSp4SbrMqKt3quf/tblvVTl0g1HdU9pOW)
+3. [Tech Resume Inside Out](https://thetechresume.com/)
+4. [Free Resume Templates](https://novoresume.com/resume-templates)
+5. [Standard Resume](https://standardresume.co/)
+6. [Resume Worded | Resume Scoring Tool](https://resumeworded.com/)
