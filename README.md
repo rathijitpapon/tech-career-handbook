@@ -115,13 +115,15 @@
 6. [College Recruiter](https://www.collegerecruiter.com/)
 7. [Career Builder](https://www.careerbuilder.com/)
 8. [Monster](https://www.monster.com/)
-9. [Crossover](https://www.crossover.com/)
-10. [Stackoverflow](https://stackoverflow.com/jobs)
-11. [GeeksforGeeks](https://www.geeksforgeeks.org/careers/)
-12. [HackerEarth](https://www.hackerearth.com/challenges/)
-13. [Hired](https://hired.com/)
-14. [Cord](https://cord.co/)
-15. [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+9. [Turing](https://www.turing.com/)
+10. [Toptal](https://www.toptal.com/)
+11. [Crossover](https://www.crossover.com/)
+12. [Stackoverflow](https://stackoverflow.com/jobs)
+13. [GeeksforGeeks](https://www.geeksforgeeks.org/careers/)
+14. [HackerEarth](https://www.hackerearth.com/challenges/)
+15. [Hired](https://hired.com/)
+16. [Cord](https://cord.co/)
+17. [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
     
 
 ## Problem Solving Platforms
