@@ -124,6 +124,7 @@
 15. [Hired](https://hired.com/)
 16. [Cord](https://cord.co/)
 17. [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+18. [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) - daily-updated Canadian student and recent-grad software engineering jobs, including internships, co-ops, new grad, junior, and entry-level roles.
     
 
 ## Problem Solving Platforms
