@@ -172,3 +172,5 @@
 4. [Free Resume Templates](https://novoresume.com/resume-templates)
 5. [Standard Resume](https://standardresume.co/)
 6. [Resume Worded | Resume Scoring Tool](https://resumeworded.com/)
+7. [ResumeAI | Free ATS checker + State of ATS 2026](https://withresumeai.com/)
+
