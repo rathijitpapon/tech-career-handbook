@@ -172,3 +172,4 @@
 4. [Free Resume Templates](https://novoresume.com/resume-templates)
 5. [Standard Resume](https://standardresume.co/)
 6. [Resume Worded | Resume Scoring Tool](https://resumeworded.com/)
+7. [JobEmerge | AI Job-Fit, Resume Translation & Editing](https://www.jobemerge.work)
